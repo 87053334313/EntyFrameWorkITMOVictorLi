@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Furry_CommunityModelStoreContainer" CdmEntityContainer="Furry_CommunityEntities">
+    <EntitySetMapping Name="it_is_me">
+      <EntityTypeMapping TypeName="Furry_CommunityModel.it_is_me">
+        <MappingFragment StoreEntitySet="it_is_me">
+          <ScalarProperty Name="ID_I" ColumnName="ID_I" />
+          <ScalarProperty Name="First_name" ColumnName="First_name" />
+          <ScalarProperty Name="Second_name" ColumnName="Second_name" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="ID_how_to_contact_me" ColumnName="ID_how_to_contact_me" />
+          <ScalarProperty Name="ID_reputation" ColumnName="ID_reputation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

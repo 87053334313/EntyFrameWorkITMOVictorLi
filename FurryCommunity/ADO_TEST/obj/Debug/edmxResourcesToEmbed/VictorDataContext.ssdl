@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Furry_CommunityModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="it_is_me">
+    <Key>
+      <PropertyRef Name="ID_I" />
+    </Key>
+    <Property Name="ID_I" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="First_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Second_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Patronymic" Type="varchar" MaxLength="50" />
+    <Property Name="Photo" Type="image" />
+    <Property Name="ID_how_to_contact_me" Type="int" Nullable="false" />
+    <Property Name="ID_reputation" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Furry_CommunityModelStoreContainer">
+    <EntitySet Name="it_is_me" EntityType="Self.it_is_me" Schema="engineering" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

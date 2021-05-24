@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Furry_CommunityModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="it_is_me">
+    <Key>
+      <PropertyRef Name="ID_I" />
+    </Key>
+    <Property Name="ID_I" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="First_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Second_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="ID_how_to_contact_me" Type="Int32" Nullable="false" />
+    <Property Name="ID_reputation" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Furry_CommunityEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="it_is_me" EntityType="Self.it_is_me" />
+  </EntityContainer>
+</Schema>

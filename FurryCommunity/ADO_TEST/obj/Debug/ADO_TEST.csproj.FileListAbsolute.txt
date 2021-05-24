@@ -1,0 +1,15 @@
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\ADO_TEST.exe.config
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\ADO_TEST.exe
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\ADO_TEST.pdb
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.csprojAssemblyReference.cache
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.Form1.resources
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.Properties.Resources.resources
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.csproj.GenerateResource.cache
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.csproj.CoreCompileInputs.cache
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.exe
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.pdb
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\EntityFramework.dll
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\EntityFramework.xml
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VictorLi\Desktop\EntityFrameWork_VictorLi\FurryCommunity\ADO_TEST\obj\Debug\ADO_TEST.csproj.CopyComplete
